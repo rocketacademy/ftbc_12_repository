@@ -11,6 +11,15 @@ git push = pushes the locally staged changes to github
 
 ## git flow for collaboration
 
+Harrooooooooooo!!! :D
+git pull
+git flow
+
+Hello Hello Hello
+
 Hi
 Hello world
 test
+TEST
+hello!!
+Whats Up
