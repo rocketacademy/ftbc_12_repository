@@ -10,5 +10,8 @@ git commit -m "meaningful message" = puts the files into staging
 git push = pushes the locally staged changes to github
 
 ## git flow for collaboration
+git pull
+git flow
+
 
 Hello Hello Hello
