@@ -15,8 +15,12 @@ git push = pushes the locally staged changes to github
    We want to work in branches our branch works before pushing it up
 2. git checkout -b <name-of-your-branch>
 3. make changes to the repo
-4. git flow - git push origin <name-of-your-branch>
-5. pull request
+4. git flow (without push)
+5. git checkout main
+6. git pull
+7. git merge
+8. git flow - git push origin <name-of-your-branch>
+9. pull request
 
 Harrooooooooooo!!! :D
 git pull
