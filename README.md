@@ -29,7 +29,6 @@ git push = pushes the locally staged changes to github
 6. git pull
 7. git merge
 8. git flow
-9. pull request
 
 Harrooooooooooo!!! :D
 git pull
