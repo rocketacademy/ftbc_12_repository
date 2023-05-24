@@ -11,6 +11,13 @@ git push = pushes the locally staged changes to github
 
 ## git flow for collaboration
 
+1. clone the repo online
+   We want to work in branches our branch works before pushing it up
+2. git checkout -b <name-of-your-branch>
+3. make changes to the repo
+4. git flow - git push origin <name-of-your-branch>
+5. pull request
+
 Harrooooooooooo!!! :D
 git pull
 git flow
